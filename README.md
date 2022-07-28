@@ -1,6 +1,6 @@
 # java 
 
-:coffee:
+:coffee: 3
 
 
 
